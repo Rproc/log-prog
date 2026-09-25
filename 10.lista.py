@@ -55,4 +55,3 @@ notas = [10, 5, 8, 9.5, 7, 4.5, 1, 0]
 #         ['Mais uma lista']]
 # for s in sopa:
 #     print(type(s), s)
-
