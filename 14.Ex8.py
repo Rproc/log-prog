@@ -19,6 +19,7 @@ matriz = [[0] * colunas for _ in range(linhas)]
     #               [0, 0]
     #           ]
 
+# matriz = [[0] * colunas for _ in range(linhas)]
 for i in range(len(matriz)):
     for j in range(len(matriz[i])):
         matriz[i][j] = int(input('Digite um número: '))
